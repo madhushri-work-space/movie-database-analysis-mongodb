@@ -17,3 +17,5 @@ This project demonstrates hands-on experience with MongoDB using the sample_mfli
 
 ## Purpose
 To understand NoSQL database structure and real-world data handling.
+
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
